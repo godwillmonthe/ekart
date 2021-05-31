@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832500651965",
+    "project_id": "e-kart-b65c5",
+    "storage_bucket": "e-kart-b65c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832500651965:android:3bdedcdd55ffd9743f64d4",
+        "android_client_info": {
+          "package_name": "com.r_and_i.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832500651965-3hvhkvrdhddvkoft10f2d831i5p2ug9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNbelkVJ6R0KbJTIarMrgKCA8Kwjd_sgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832500651965-3hvhkvrdhddvkoft10f2d831i5p2ug9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
