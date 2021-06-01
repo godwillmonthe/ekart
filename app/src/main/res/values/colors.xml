@@ -5,6 +5,6 @@
     <color name="colorPrimaryDark">#FF3700B3</color>
     <color name="colorSecondary">#FF03DAC5</color>
     <color name="colorSecondaryVariant">#FF018786</color>
-    <color name="colorOnSecondary">#FF000000</color>
+    <color name="colorOnSecondary">#FF03DAC5</color>
     <color name="white">#FFFFFFFF</color>
 </resources>
